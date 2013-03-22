@@ -6,5 +6,5 @@
     android:layout_gravity="center"
     android:layout_weight="1.0"
     android:background="@drawable/small_face_background"
-    android:padding="16dp"
+    android:padding="@dimen/card_padding"
     android:scaleType="fitCenter" />
